@@ -1,3 +1,8 @@
+Features
+This is a simple app that allows you to calculate the BMI based on the height (in m) and weight (in kg) input via a simple form.
+
+To install app dependencies, run `npm install` in the project directory before starting the project as per the instructions below.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
