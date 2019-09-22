@@ -37,7 +37,7 @@ export default class UserForm extends Component {
   render() {
     return (
       <div>
-        <h1 style={ headingStyle }>Currency converter</h1>
+        <h1 style={ headingStyle }>Currency converter [Deprecated]</h1>
         <form>
           <select 
           ref={select => this.currency1 = select}>

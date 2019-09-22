@@ -16,7 +16,7 @@ class App extends Component {
           <div>
             <Header />
             <Route exact={true} path="/" component={UserForm_children} /> 
-            <Route exact={true} path="/2.0" component={UserForm} /> 
+            <Route path="/exchange1.0" component={UserForm} /> 
             <Route path="/card-game" component={CardGame} />
           </div> 
         </BrowserRouter>

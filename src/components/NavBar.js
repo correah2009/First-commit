@@ -23,7 +23,12 @@ export default class NavBar extends Component {
                       <DropdownMenu>
                         <DropdownItem>
                           <NavItem className="d-flex align-items-center">
-                            <NavLink className="font-weight-bold" href="/">Currency Converter</NavLink>
+                            <NavLink className="font-weight-bold" href="/">Currency Converter 2.0</NavLink>
+                          </NavItem>
+                        </DropdownItem>
+                        <DropdownItem>
+                          <NavItem className="d-flex align-items-center">
+                            <NavLink className="font-weight-bold" href="/exchange1.0">[Depricated] Currency Converter</NavLink>
                           </NavItem>
                         </DropdownItem>
                         <DropdownItem>
